@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    margin: 40px;
+    margin-left: 120px;
+    border: 2px solid black;
+    padding: 30px;
+    width: 400px;
+}
+
+.firstline {
+    display: inline-block;
+    
+}
+
+
+#name {
+
+}
+
+#number {
+    margin-left: 90px;
+}
+
+#button {
+    margin-left: 30px;
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 2px 3px black;
+
+}
+
+.filler {
+    margin-top: 10px;
+}
